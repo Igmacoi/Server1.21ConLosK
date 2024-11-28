@@ -9,8 +9,10 @@
     "criteria": {
       "minecraft:forest": "2024-11-28 00:47:04 +0000",
       "minecraft:cherry_grove": "2024-11-28 00:46:06 +0000",
+      "minecraft:river": "2024-11-28 02:47:01 +0000",
       "minecraft:meadow": "2024-11-28 00:42:11 +0000",
       "minecraft:dripstone_caves": "2024-11-28 01:10:28 +0000",
+      "minecraft:savanna": "2024-11-28 02:48:48 +0000",
       "minecraft:plains": "2024-11-28 00:41:53 +0000"
     },
     "done": false
@@ -1229,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-11-28 02:49:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-28 02:30:38 +0000"
@@ -1250,6 +1258,18 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-11-28 02:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-11-28 02:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-11-28 02:49:14 +0000"
     },
     "done": true
   },
@@ -1283,6 +1303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-28 02:49:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-11-28 02:33:59 +0000"
@@ -1292,6 +1318,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-28 02:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-11-28 02:49:14 +0000"
     },
     "done": true
   },
@@ -1310,6 +1342,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-28 02:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-11-28 02:49:14 +0000"
     },
     "done": true
   },
@@ -1391,6 +1429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-11-28 02:49:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-28 02:30:38 +0000"
@@ -1421,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-11-28 02:49:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-11-28 02:21:27 +0000"
@@ -1433,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-28 02:49:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-28 02:30:38 +0000"
@@ -1442,6 +1498,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-28 02:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-11-28 02:49:14 +0000"
     },
     "done": true
   },
