@@ -306,7 +306,8 @@
       "cooked_chicken": "2024-11-28 02:03:22 +0000",
       "rotten_flesh": "2024-11-28 01:00:30 +0000",
       "potato": "2024-11-28 00:59:03 +0000",
-      "cooked_beef": "2024-11-28 01:27:04 +0000"
+      "cooked_beef": "2024-11-28 01:27:04 +0000",
+      "baked_potato": "2024-11-30 03:58:40 +0000"
     },
     "done": false
   },
@@ -1507,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-11-30 03:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-30 03:10:06 +0000"
@@ -1519,21 +1526,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:sheep": "2024-11-30 03:16:28 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-30 03:10:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2024-11-30 03:07:32 +0000"
     },
     "done": true
   },
@@ -1573,9 +1568,33 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-11-30 03:16:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-11-30 03:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-11-30 03:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-11-30 03:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-11-30 04:00:32 +0000"
     },
     "done": true
   },

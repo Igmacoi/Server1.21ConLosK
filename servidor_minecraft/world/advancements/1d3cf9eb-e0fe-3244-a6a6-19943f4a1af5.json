@@ -29,6 +29,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2024-11-30 04:06:22 +0000",
       "minecraft:skeleton": "2024-11-28 01:15:48 +0000",
       "minecraft:enderman": "2024-11-30 02:40:58 +0000",
       "minecraft:spider": "2024-11-28 01:02:35 +0000",
@@ -1976,6 +1977,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-11-30 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-11-30 04:13:09 +0000"
     },
     "done": true
   },
