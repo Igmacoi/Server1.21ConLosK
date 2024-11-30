@@ -1974,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-11-30 04:31:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall": {
     "criteria": {
       "has_tuff": "2024-11-30 03:48:38 +0000"

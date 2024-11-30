@@ -264,10 +264,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-11-30 04:28:49 +0000",
       "minecraft:spider": "2024-11-28 01:00:11 +0000",
       "minecraft:zombie": "2024-11-28 01:38:47 +0000",
       "minecraft:creeper": "2024-11-30 03:24:35 +0000",
-      "minecraft:drowned": "2024-11-30 03:52:06 +0000"
+      "minecraft:drowned": "2024-11-30 03:52:06 +0000",
+      "minecraft:zombie_villager": "2024-11-30 04:32:53 +0000"
     },
     "done": false
   },
