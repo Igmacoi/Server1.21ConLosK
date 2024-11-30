@@ -118,3 +118,19 @@
 [04:04:34] [User Authenticator #8/INFO]: UUID of player Igmacoi_Ev is d44781fe-a958-3787-9bd2-fd9e3ea210bc
 [04:04:36] [Server thread/INFO]: Igmacoi_Ev joined the game
 [04:04:36] [Server thread/INFO]: Igmacoi_Ev[/127.27.155.115:36975] logged in with entity id 27347 at ([world]185.93958665597134, 63.0, 18.746236858972114)
+[04:17:07] [Server thread/INFO]: Igmacoi_Ev lost connection: Disconnected
+[04:17:07] [Server thread/INFO]: Igmacoi_Ev left the game
+[04:17:15] [User Authenticator #9/INFO]: UUID of player Igmacoi_Ev is d44781fe-a958-3787-9bd2-fd9e3ea210bc
+[04:17:17] [Server thread/INFO]: Igmacoi_Ev joined the game
+[04:17:17] [Server thread/INFO]: Igmacoi_Ev[/127.27.155.115:57567] logged in with entity id 28893 at ([world]309.85000393822133, 144.0, -75.32963448436175)
+[04:17:59] [User Authenticator #9/INFO]: UUID of player inqctivoh is 337c3d22-d36a-3aba-ae4d-5d219d16195d
+[04:18:01] [Server thread/INFO]: inqctivoh joined the game
+[04:18:01] [Server thread/INFO]: inqctivoh[/127.78.193.207:58247] logged in with entity id 28977 at ([world]212.05924877270846, 67.0, -12.949635764600735)
+[04:18:08] [Server thread/INFO]: inqctivoh lost connection: Disconnected
+[04:18:08] [Server thread/INFO]: inqctivoh left the game
+[04:19:15] [User Authenticator #10/INFO]: UUID of player inqctivoh is 337c3d22-d36a-3aba-ae4d-5d219d16195d
+[04:19:16] [Server thread/INFO]: inqctivoh joined the game
+[04:19:16] [Server thread/INFO]: inqctivoh[/127.78.193.207:33465] logged in with entity id 29121 at ([world]211.65442565199552, 67.0, -12.065567219293198)
+[04:24:57] [Server thread/INFO]: inqctivoh was shot by Skeleton
+[04:25:03] [Async Chat Thread - #6/INFO]: [Not Secure] <inqctivoh> xed
+[04:25:36] [Server thread/INFO]: inqctivoh was slain by Enderman

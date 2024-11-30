@@ -1325,24 +1325,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2024-11-30 03:50:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2024-11-30 03:55:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-11-30 03:51:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2024-11-30 03:48:05 +0000"
@@ -1361,15 +1343,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_book": "2024-11-30 03:51:18 +0000"
+      "has_obsidian": "2024-11-30 03:48:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_book": "2024-11-30 03:51:18 +0000"
+      "has_iron_nugget": "2024-11-30 03:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-11-30 03:50:34 +0000"
     },
     "done": true
   },
@@ -1379,21 +1367,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2024-11-30 03:55:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-11-30 03:50:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_light_gray_wool": "2024-11-30 03:55:23 +0000"
+      "has_book": "2024-11-30 03:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-11-30 03:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-30 03:51:18 +0000"
     },
     "done": true
   },
@@ -1415,15 +1409,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
-      "has_obsidian": "2024-11-30 03:48:07 +0000"
+      "has_light_gray_wool": "2024-11-30 03:55:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
-      "has_iron_nugget": "2024-11-30 03:48:11 +0000"
+      "has_light_gray_wool": "2024-11-30 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-11-30 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-11-30 04:19:44 +0000"
     },
     "done": true
   },
